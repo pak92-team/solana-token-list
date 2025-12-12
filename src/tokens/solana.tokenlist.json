@@ -184615,6 +184615,26 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+    "chainId": 101,
+      "address": "CDHa76m8uqoo3sywFCRsPp9uTdQjRCM5DNrJfVQ36fVk",
+      "symbol": "PAK92",
+      "name": "PakaCoin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pak92-team/pak92-solana-token-info/main/assets/mainnet/CDHa76m8uqoo3sywFCRsPp9uTdQjRCM5DNrJfVQ36fVk/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://pak92.top",
+        "twitter": "https://x.com/tokenpak92",
+        "email": "tokenpak92@gmail.com",
+        "telegram": "https://t.me/pak92community",
+        "description": "PAK92 is a meme token created for community culture and joy on Solana. No investment promotion — just pure community-driven energy."
+      }
     }
   ],
   "version": {
